@@ -26,3 +26,6 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=debnath003&show_icons=true&locale=en" alt="debnath003" /></p>
 
+<h3 align="left">Highlights of Hacktoberfest 2023</h3>
+
+[![An image of @debnath003's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/debnath003)](https://holopin.io/@debnath003)

@@ -7,7 +7,7 @@
 
 - 📫 How to reach me: **pronayd4455@gmail.com**
 
-- 📄 Know about my experiences: [My Resume](https://drive.google.com/file/d/1u6TIas9V2dDfwwb_R83XqsYu2i1veDgl/view?usp=drive_link)
+- 📄 Know about my experiences: **[My Resume](https://drive.google.com/file/d/1u6TIas9V2dDfwwb_R83XqsYu2i1veDgl/view?usp=drive_link)**
 
 - ⚡ Fun fact: **I am sleepy always! :)**
 
